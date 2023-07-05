@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2023-feb-10 08:41" licenseGrade="single" licenseeName="AgileJ community member" licenseeOrganization="agilej-community" populationMethod="manual" version="1.9.2.v20190518-1152">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+
+show abstract classes in pink
+show all interfaces in blue
+show serializable types in white
+hide method lines 
+hide call lines
+hide dependency lines 
+hide inheritance lines 
+hide method lines 
+hide field lines
+hide getter methods 
+hige setter methods
+
+</filterScript>
+        <class className="helpz.Constants" modelMemberId="helpz.Constants" project="juego" xLocation="-1319" yLocation="1894"/>
+        <class className="managers.TileManager" modelMemberId="managers.TileManager" project="juego" xLocation="-2958" yLocation="-422"/>
+        <class className="managers.WaveManager" modelMemberId="managers.WaveManager" project="juego" xLocation="-1884" yLocation="-443"/>
+        <class className="managers.EnemyManager" modelMemberId="managers.EnemyManager" project="juego" xLocation="-2430" yLocation="-458"/>
+        <class className="managers.ProjectileManager" modelMemberId="managers.ProjectileManager" project="juego" xLocation="-1268" yLocation="-413"/>
+        <class className="inputs.MyMouseListener" modelMemberId="inputs.MyMouseListener" project="juego" xLocation="-917" yLocation="690"/>
+        <class className="ui.ActionBar" modelMemberId="ui.ActionBar" project="juego" xLocation="-5138" yLocation="1218"/>
+        <class className="managers.TowerManager" modelMemberId="managers.TowerManager" project="juego" xLocation="-3529" yLocation="-378"/>
+        <class className="ui.Toolbar" modelMemberId="ui.Toolbar" project="juego" xLocation="-3930" yLocation="1276"/>
+        <class className="scenes.Playing" modelMemberId="scenes.Playing" project="juego" xLocation="-4007" yLocation="2375"/>
+        <class className="main.GameScreen" modelMemberId="main.GameScreen" project="juego" xLocation="-4370" yLocation="-284"/>
+        <class className="scenes.Editing" modelMemberId="scenes.Editing" project="juego" xLocation="-2502" yLocation="2484"/>
+        <class className="scenes.Settings" modelMemberId="scenes.Settings" project="juego" xLocation="-3485" yLocation="2451"/>
+        <class className="enemies.Enemy" modelMemberId="enemies.Enemy" project="juego" xLocation="-1561" yLocation="793"/>
+        <class className="helpz.LoadSave" modelMemberId="helpz.LoadSave" project="juego" xLocation="-1117" yLocation="1505"/>
+        <class className="main.Game" modelMemberId="main.Game" project="juego" xLocation="-4771" yLocation="-285"/>
+        <class className="scenes.Credits" modelMemberId="scenes.Credits" project="juego" xLocation="-2930" yLocation="2465"/>
+        <class className="scenes.Menu" modelMemberId="scenes.Menu" project="juego" xLocation="-4969" yLocation="2453"/>
+        <class className="inputs.KeyboardListener" modelMemberId="inputs.KeyboardListener" project="juego" xLocation="-944" yLocation="1094"/>
+        <class className="ui.MyButton" modelMemberId="ui.MyButton" project="juego" xLocation="-4403" yLocation="1249"/>
+        <class className="scenes.SceneMethods" modelMemberId="scenes.SceneMethods" project="juego" xLocation="-3587" yLocation="2014"/>
+        <class className="scenes.GameOver" modelMemberId="scenes.GameOver" project="juego" xLocation="-4518" yLocation="2438"/>
+        <class className="main.GameStates" modelMemberId="main.GameStates" project="juego" xLocation="-4392" yLocation="86"/>
+        <class className="objects.Projectile" modelMemberId="objects.Projectile" project="juego" xLocation="-1303" yLocation="127"/>
+        <class className="objects.PathPoint" modelMemberId="objects.PathPoint" project="juego" xLocation="-1930" yLocation="1263"/>
+        <class className="objects.Tower" modelMemberId="objects.Tower" project="juego" xLocation="-3595" yLocation="138"/>
+        <class className="main.Render" modelMemberId="main.Render" project="juego" xLocation="-4834" yLocation="135"/>
+        <class className="helpz.ImgFix" modelMemberId="helpz.ImgFix" project="juego" xLocation="-680" yLocation="1762"/>
+        <class className="enemies.Yellow" modelMemberId="enemies.Yellow" project="juego" xLocation="-1980" yLocation="864"/>
+        <class className="enemies.Green" modelMemberId="enemies.Green" project="juego" xLocation="-1992" yLocation="631"/>
+        <class className="events.Wave" modelMemberId="events.Wave" project="juego" xLocation="-1848" yLocation="39"/>
+        <class className="enemies.Blue" modelMemberId="enemies.Blue" project="juego" xLocation="-1936" yLocation="444"/>
+        <class className="ui.Bar" modelMemberId="ui.Bar" project="juego" xLocation="-4684" yLocation="1250"/>
+        <class className="helpz.Utilz" modelMemberId="helpz.Utilz" project="juego" xLocation="-710" yLocation="1555"/>
+        <class className="objects.Tile" modelMemberId="objects.Tile" project="juego" xLocation="-2937" yLocation="155"/>
+    </diagram>
+</ajsv>
